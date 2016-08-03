@@ -1,0 +1,8 @@
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll.config
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.dll
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\DiagnosticCenterBillManagementSystem.pdb
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.dll
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\obj\Debug\DiagnosticCenterBillManagementSystem.pdb
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\itextsharp.dll
+C:\Users\Sukanta Bala\Desktop\My Visual Studio Program\DiagnosticCenterBillManagementSystem\DiagnosticCenterBillManagementSystem\bin\itextsharp.xml
